@@ -1,0 +1,39 @@
+    let bannedIPS = [
+      '23.105.36.27', '38.205.0.60',
+      '37.120.129.137', '23.82.16.112',
+      '108.62.117.91', '38.202.2.217', 
+      '54.70.53.60', '2600:1004:b08b:d238:3c88:b301:333:865a',
+      '52.34.76.65', '184.188.74.124', 
+      '184.188.74.50', '38.132.193.191',
+      '64.57.140.57', '64.57.140.140',
+      '35.87.212.76', '38.132.193.46', 
+      '108.62.235.136',
+      '27.115.124.6'
+    ]
+    
+    let bannedORGS = [
+      'MICROSOFT-CORP-MSN-AS-BLOCK',
+      'AMAZON-AES', 
+      'MICROSOFT-CORP', 
+      'Akari Networks', 
+      'GOOGLE-CLOUD-PLATFORM', 
+      'GOOGLE', 
+      'COMCAST-7922', 
+      'UAB code200', 
+      'COGENT-174', 
+      'ASN-CXA-ALL-CCI-22773-RDC', 
+      'WHITELABELCOLO393',
+      'NEXEON',
+      'AS-COLOCROSSING',
+      'China Unicom Shanghai network',
+      'AS21565',
+      'WEB2OBJECTS',
+      'QUICKPACKET',
+      'DNA Oyj',
+      'AS number for Google Corporate Network in APAC',
+      'Converge ICT Solutions Inc.',
+      'AMAZON-02',
+      'DIGITALOCEAN-ASN',
+      'OVH SAS',
+      'TWC-11427-TEXAS'
+    ]
